@@ -1,0 +1,8 @@
+# Output files
+dist*/
+
+# Cache objects
+packer_cache/
+
+# For built boxes
+*.box
